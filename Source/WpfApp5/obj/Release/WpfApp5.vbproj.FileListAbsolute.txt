@@ -1,0 +1,17 @@
+C:\Users\lenno\source\repos\WpfApp5\WpfApp5\bin\Release\WpfApp5.exe.config
+C:\Users\lenno\source\repos\WpfApp5\WpfApp5\bin\Release\WpfApp5.exe
+C:\Users\lenno\source\repos\WpfApp5\WpfApp5\bin\Release\WpfApp5.pdb
+C:\Users\lenno\source\repos\WpfApp5\WpfApp5\bin\Release\WpfApp5.xml
+C:\Users\lenno\source\repos\WpfApp5\WpfApp5\obj\Release\WpfApp5.vbprojResolveAssemblyReference.cache
+C:\Users\lenno\source\repos\WpfApp5\WpfApp5\obj\Release\MainWindow.g.vb
+C:\Users\lenno\source\repos\WpfApp5\WpfApp5\obj\Release\Application.g.vb
+C:\Users\lenno\source\repos\WpfApp5\WpfApp5\obj\Release\WpfApp5_MarkupCompile.cache
+C:\Users\lenno\source\repos\WpfApp5\WpfApp5\obj\Release\WpfApp5_MarkupCompile.lref
+C:\Users\lenno\source\repos\WpfApp5\WpfApp5\obj\Release\MainWindow.baml
+C:\Users\lenno\source\repos\WpfApp5\WpfApp5\obj\Release\WpfApp5.g.resources
+C:\Users\lenno\source\repos\WpfApp5\WpfApp5\obj\Release\WpfApp5.Resources.resources
+C:\Users\lenno\source\repos\WpfApp5\WpfApp5\obj\Release\WpfApp5.vbproj.GenerateResource.Cache
+C:\Users\lenno\source\repos\WpfApp5\WpfApp5\obj\Release\WpfApp5.vbproj.CoreCompileInputs.cache
+C:\Users\lenno\source\repos\WpfApp5\WpfApp5\obj\Release\WpfApp5.exe
+C:\Users\lenno\source\repos\WpfApp5\WpfApp5\obj\Release\WpfApp5.xml
+C:\Users\lenno\source\repos\WpfApp5\WpfApp5\obj\Release\WpfApp5.pdb
