@@ -25,10 +25,10 @@
         <Button Content="Game Controllers" HorizontalAlignment="Left" VerticalAlignment="Top" Width="97" Margin="161,110,0,0" Click="Button_Click_16"/>
         <Button Content="Bluetooth Properties" HorizontalAlignment="Left" VerticalAlignment="Top" Width="137" Margin="121,135,0,0" Click="Button_Click_15"/>
         <Button Content="Sound" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="108,160,0,0" Click="Button_Click_18"/>
-        <TextBlock x:Name="Text" HorizontalAlignment="Left" TextWrapping="Wrap" Text="SimpPanel" VerticalAlignment="Top" Margin="275,10,0,0" Height="58" Width="196" FontSize="36" FontWeight="Bold"/>
+        <TextBlock x:Name="Text" HorizontalAlignment="Left" TextWrapping="Wrap" Text="SimpPanel" VerticalAlignment="Top" Margin="275,10,0,0" Height="58" Width="186" FontSize="36" FontWeight="Bold"/>
         <Button Content="Credits" Margin="427,285,0,0" Click="Button_Click_17"/>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="332,78,0,0" Height="25" FontSize="18"><Run Text="By Lennon"/><LineBreak/><Run/></TextBlock>
-        <TextBlock HorizontalAlignment="Left" Margin="326,61,0,0" TextWrapping="Wrap" Text="Release v2018.2" VerticalAlignment="Top" FontSize="14"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="306,79,0,0" Height="25" FontSize="18"><Run Text="By Lennon Craig"/><LineBreak/><Run/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="286,61,0,0" TextWrapping="Wrap" Text="Public Release Version 0.0.1" VerticalAlignment="Top" FontSize="14"/>
         <Button Content="What's the purpose?" Click="Button_Click_20" Margin="306,285,90,0"/>
 
     </Grid>
