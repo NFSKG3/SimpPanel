@@ -1,3 +1,3 @@
 Upcoming changes:
 
-A error handler
+* A error handler
