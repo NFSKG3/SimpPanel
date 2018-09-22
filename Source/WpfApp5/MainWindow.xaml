@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp5"
         mc:Ignorable="d"
-        Title="SimpPanel" Height="350" Width="525">
+        Title="SimpPanel" Height="350" Width="525" Icon="icon.ico">
     <Grid>
         <Button Content="Programs and Features" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="129" Click="Button_Click"/>
         <Button Content="Time and Date" HorizontalAlignment="Left" Margin="10,35,0,0" VerticalAlignment="Top" Width="81" Click="Button_Click_1"/>
