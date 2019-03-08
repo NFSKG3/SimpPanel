@@ -1,0 +1,36 @@
+﻿<Window x:Name="SimpPanel" x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp5"
+        mc:Ignorable="d"
+        Title="SimpPanel" Height="350" Width="525" Icon="icon.ico">
+    <Grid>
+        <Button Content="Programs and Features" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="129" Click="Button_Click"/>
+        <Button Content="Time and Date" HorizontalAlignment="Left" Margin="10,35,0,0" VerticalAlignment="Top" Width="81" Click="Button_Click_1"/>
+        <Button Content="Internet Properties" HorizontalAlignment="Left" Margin="10,60,0,0" VerticalAlignment="Top" Width="106" Click="Button_Click_3"/>
+        <Button Content="Infrared" HorizontalAlignment="Left" Margin="10,85,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_2"/>
+        <Button Content="Security and Maintenance" HorizontalAlignment="Left" VerticalAlignment="Top" Width="146" Margin="10,110,0,0" Click="Button_Click_4"/>
+        <Button Content="System Properties" HorizontalAlignment="Left" VerticalAlignment="Top" Width="106" Margin="10,135,0,0" Click="Button_Click_5"/>
+        <Button Content="Pen and Touch" HorizontalAlignment="Left" VerticalAlignment="Top" Width="93" Margin="10,160,0,0" Click="Button_Click_6"/>
+        <Button Content="Speech Properties" HorizontalAlignment="Left" Margin="10,185,0,0" VerticalAlignment="Top" Width="106" Click="Button_Click_7"/>
+        <Button Content="Location Information" HorizontalAlignment="Left" Margin="10,210,0,0" VerticalAlignment="Top" Width="119" Click="Button_Click_8"/>
+        <Button Content="Display Properties" HorizontalAlignment="Left" VerticalAlignment="Top" Width="106" Margin="10,235,0,0" Click="Button_Click_9"/>
+        <Button Content="Power Options" HorizontalAlignment="Left" VerticalAlignment="Top" Width="81" Margin="10,260,0,0" Click="Button_Click_10"/>
+        <Button Content="Mouse Properties" HorizontalAlignment="Left" Margin="144,10,0,0" VerticalAlignment="Top" Width="104" Click="Button_Click_11"/>
+        <Button Content="Network Connections" HorizontalAlignment="Left" VerticalAlignment="Top" Width="122" Margin="96,35,0,0" Click="Button_Click_12"/>
+        <Button Content="Region" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="121,60,0,0" Click="Button_Click_13"/>
+        <Button Content="Windows Firewall" HorizontalAlignment="Left" VerticalAlignment="Top" Width="106" Margin="90,85,0,0" Click="Button_Click_14"/>
+        <Button Content="Game Controllers" HorizontalAlignment="Left" VerticalAlignment="Top" Width="97" Margin="161,110,0,0" Click="Button_Click_16"/>
+        <Button Content="Bluetooth Properties" HorizontalAlignment="Left" VerticalAlignment="Top" Width="137" Margin="121,135,0,0" Click="Button_Click_15"/>
+        <Button Content="Sound" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="108,160,0,0" Click="Button_Click_18"/>
+        <TextBlock x:Name="Text" HorizontalAlignment="Left" TextWrapping="Wrap" Text="SimpPanel" VerticalAlignment="Top" Margin="275,10,0,0" Height="58" Width="196" FontSize="36" FontWeight="Bold"/>
+        <Button Content="Credits" Margin="427,285,0,0" Click="Button_Click_17"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="332,78,0,0" Height="25" FontSize="18"><Run Text="By Lennon"/><LineBreak/><Run/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="326,61,0,0" TextWrapping="Wrap" Text="Release v2018.3" VerticalAlignment="Top" FontSize="14"/>
+        <Button Content="What's the purpose?" Click="Button_Click_20" Margin="306,285,90,0"/>
+        <Button Content="Crash!" HorizontalAlignment="Left" Margin="231,285,0,0" VerticalAlignment="Top" Width="75" Height="34" Click="Button_Click_21"/>
+
+    </Grid>
+</Window>
