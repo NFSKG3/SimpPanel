@@ -8,3 +8,5 @@ Want to change the mouse cursor... just because? Well you can do that too.
 Domains can remove Control Panel listings  in the Windows CP GUI. You can still accsess these settings, but however you have to remember ridiculous names.
 For example, main.cpl takes you to Mouse settings. 
 This offers a point-and-click GUI for opening these .cpl files.
+
+Note: SimpPanel 2018.1 has been removed for confedinciality of my last name being contained inside.
