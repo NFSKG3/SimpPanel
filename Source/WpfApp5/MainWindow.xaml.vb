@@ -133,7 +133,7 @@
     End Sub
 
     Private Sub Button_Click_17(sender As Object, e As RoutedEventArgs)
-        MsgBox("Programmed fully by Lennon. Created with Microsoft Visual Studio Community 2017.")
+        MsgBox("Programmed fully by SKG3. Created with Microsoft Visual Studio Community 2017.")
     End Sub
 
     Private Sub Button_Click_18(sender As Object, e As RoutedEventArgs)
@@ -150,5 +150,9 @@
 
     Private Sub Button_Click_20(sender As Object, e As RoutedEventArgs)
         MsgBox("This program may seem pointless at first, but it is indeed useful. How? Well, domains may disable accsess to the normal Control Panel GUI. However, you can open the .cpl files yourself (this program does that) and accsess the control panel items. However, you have to remember exact filenames and what they do. This simplifies that into a easy-to-use GUI.")
+    End Sub
+
+    Private Sub Button_Click_21(sender As Object, e As RoutedEventArgs)
+        MsgBox("This program should have been downloaded for free. If you have paid for this software, YOU HAVE BEEN SCAMMED! If you've downloaded this program through a file downloading method such as Gnutella or torrent, it has most likely been uploaded by its creator. This program is officially free and always will be.")
     End Sub
 End Class
